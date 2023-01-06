@@ -3,6 +3,12 @@
 ## Overview
 A financial loan dataset was analyzed using a variety of machine learning algorithms to explore handling an imbalanced classification problem. The dataset contains 5% high-risk loans and 95% low-risk loans. Approaches such as no sampling, oversampling, undersampling, and ensemble learning were compared in precision, recall, accuracy, and f-score.
 
+## Technologies Used
+
+* Python, Pandas, Matplotlib, scikit-learn, imbalanced-learn
+
+* VS Code, Jupyter Notebook
+
 ## Results
 
 ### Baseline (No Sampling)
